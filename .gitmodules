@@ -1,0 +1,4 @@
+[submodule "ccxt_patch"]
+	path = ccxt_patch
+	url = https://github.com/bigtotamoboss/ccxt_patch.git
+	branch = task/bithumb/listings
